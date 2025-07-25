@@ -16,10 +16,10 @@ This figure summarizes the spatial distribution of clinical indicators across 3 
 
 - **District Map**
   - Color-coded by % of symptomatic cases
-  - Circle sizes represent average IL-6 levels
-  - Overlay bars for RAT sensitivity
+  - Circle sizes represent average Mean levels
+  - Overlay bars for Test sensitivity
 - **Inset Boxplots**
-  - Compare biomarkers (IL-6, CRP, LDH, D-dimer) across cities
+  - Compare biomarkers across cities
 - **Anonymized Data**
   - All values are distorted for public sharing
 
