@@ -1,4 +1,4 @@
-# The Map of 3 Districts - Punjab (Dummy Project)
+# The Map of 3 Districts - Punjab
 
 > **Note:** This is a **dummy version** of an academic visualization project. All clinical data has been **distorted or anonymized** for demonstration purposes. No real patient information is exposed.
 
